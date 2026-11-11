@@ -385,7 +385,7 @@
                         </staff>
 <staff xml:id="p1-staff-30" n="3">
                            <layer xml:id="itpvbik" n="1">
-                              <note xml:id="j1o7nbje" dur.ppq="4" dur="2" oct="4" pname="c" stem.dir="up" />
+                              <note xml:id="j1o7nbje" dur.ppq="4" dur="4" oct="4" pname="c" stem.dir="up" />
                            </layer>
                         </staff>
 <slur xml:id="x1h414bh" startid="#w182l9h" endid="#f1y77ld9" />
